@@ -6,6 +6,7 @@
     <link rel="stylesheet" href="css/master.css">
   </head>
   <body>
+    <?php // TODO: code timetable ?>
     <div id="header">
         <p id="header_text">iSchool : ITS351 Mini Project</p>
       </div>

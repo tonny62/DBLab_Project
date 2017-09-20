@@ -15,6 +15,8 @@
       </ul>
     </div>
     <div class="clear"></div>
+    <?php // TODO: connect to database ?>
+    <?php // TODO: create add button ?>
     <div id="container">
       <div id="table_wrapper">
         <table class="timetable">

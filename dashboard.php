@@ -14,10 +14,10 @@
         <img src="pics/icon.jpg" id="logo_pic">
       </div>
       <div id="logout" class="test">
-        <p>Logout</p>
+        <p><a href="index.php">Logout</a></p>
       </div>
       <div id="account" class="test">
-        <p>My Account</p>
+        <p><a href="account.php">My Account</a></p>
       </div>
     </div>
     <div id="content_wrapper">
@@ -27,14 +27,15 @@
       <div id="table_wrapper">
         <table id="table">
           <tr>
+            <!-- TODO: add logo for different functions -->
             <td><a href="homework.php"><img src="pics/homework_icon.png" alt=""></a></td>
-            <td><a href="projects.php"><img src="pics/homework_icon.png" alt=""></a></td>
+            <!-- <td><a href="projects.php"><img src="pics/homework_icon.png" alt=""></a></td> -->
             <td><a href="timetable.php"><img src="pics/homework_icon.png" alt=""></a></td>
             <td><a href="notes.php"><img src="pics/homework_icon.png" alt=""></a></td>
           </tr>
           <tr>
             <td>Homeworks</td>
-            <td>Projects</td>
+            <!-- <td>Projects</td> -->
             <td>Timetable</td>
             <td>Notes</td>
           </tr>
