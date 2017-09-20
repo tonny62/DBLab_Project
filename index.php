@@ -43,7 +43,7 @@
     </div>
     <div id="wrapper2">
       <span id="lostpass">
-          <p><a href="lostpassword.php">Lost your password?</a></p>
+          <p>Lost your password?</p>
       </span>
 
     </div>
